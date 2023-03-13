@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![@elena's Holopin board](https://holopin.io/api/user/board?user=dyegodonadone)](https://holopin.io/@dyegodonadone)
+[![@elena's Holopin board](https://holopin.io/api/user/badges?user=dyegodonadone)](https://holopin.io/@dyegodonadone)
 
