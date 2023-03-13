@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         <img src="https://img.shields.io/badge/LARAVEL-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/POSTGRES-286790?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/POSTGRESQL-286790?style=for-the-badge&logo=postgresql&logoColor=white" />
       </p>
 <div>
 
