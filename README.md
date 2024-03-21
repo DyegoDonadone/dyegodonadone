@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dyego-b-s-donadone" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/dyego-b-s-donadone?trk=profile-badge">Dyego B. S. Donadone</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="dyego-b-s-donadone" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/dyego-b-s-donadone?trk=profile-badge">Dyego B. S. Donadone</a></div>
+    
               
 <div align="center">
       <p align="center">
